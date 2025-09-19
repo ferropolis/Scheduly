@@ -29,9 +29,6 @@ Easily manage participants, locations, and time slots with a clear tabular visua
 - MySQL / MariaDB  
 - Writable permissions for uploads if needed 
 
-### Start
-- Open project in browser  
-
 ## License
 
 This project is licensed under the MIT License.
