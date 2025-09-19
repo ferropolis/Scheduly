@@ -20,12 +20,12 @@ Easily manage participants, locations, and time slots with a clear tabular visua
    cd scheduly
 
 2. Setup database:  
-  Import db.sql  
-  Adjust credentials in config.php
+  - Import db.sql  
+  - Adjust credentials in config.php
 
 3. Configure webserver:  
-  PHP >= 7.4, MySQL/MariaDB  
-  Writable permissions for uploads if needed
+  - PHP >= 7.4, MySQL/MariaDB  
+  - Writable permissions for uploads if needed
 
 4. Open project in browser.
 
