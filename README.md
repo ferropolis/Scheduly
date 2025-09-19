@@ -18,6 +18,7 @@ Easily manage participants, locations, and time slots with a clear tabular visua
    ```bash
    git clone https://github.com/USERNAME/scheduly.git
    cd scheduly
+   ```
 
 ### Database
 - Import `db.sql`  
