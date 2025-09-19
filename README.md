@@ -17,7 +17,7 @@ Created with the help of ChatGPT-5.
 
 ### Clone repository
    ```bash
-   git clone https://github.com/USERNAME/scheduly.git
+   git clone https://github.com/ferropolis/scheduly.git
    cd scheduly
    ```
 
