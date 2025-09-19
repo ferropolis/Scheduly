@@ -38,18 +38,18 @@ It provides an easy way to manage participants, locations, and time slots with a
 
 ## Installation
 
-1. Clone repository:
+- **Clone repository:**
    ```bash
    git clone https://github.com/USERNAME/event-planner.git
    cd event-planner
    ```
-2. Setup database:
+- **Setup database:**
   - Import db.sql
   - Adjust credentials in config.php
 
-4. Configure webserver:
+- **Configure webserver:**
   - PHP >= 7.4
   - MySQL/MariaDB
   - Writable permissions for uploads if needed
 
-6. Open project in browser.
+- **Open project in browser.**
