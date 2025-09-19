@@ -18,7 +18,7 @@ Easily manage participants, locations, and time slots with a clear tabular visua
    ```bash
    git clone https://github.com/USERNAME/scheduly.git
    cd scheduly
-  ´´´
+
 2. Setup database:
   Import db.sql 
   Adjust credentials in config.php
