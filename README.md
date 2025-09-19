@@ -19,11 +19,11 @@ Easily manage participants, locations, and time slots with a clear tabular visua
    git clone https://github.com/USERNAME/scheduly.git
    cd scheduly
 
-2. Setup database:
+2. Setup database:  
   Import db.sql  
   Adjust credentials in config.php
 
-3. Configure webserver:
+3. Configure webserver:  
   PHP >= 7.4, MySQL/MariaDB  
   Writable permissions for uploads if needed
 
