@@ -14,20 +14,22 @@ Easily manage participants, locations, and time slots with a clear tabular visua
 
 ## 🚀 Installation
 
-1. Clone repository:
+### Clone repository
    ```bash
    git clone https://github.com/USERNAME/scheduly.git
    cd scheduly
 
-2. Setup database:  
-  - Import db.sql  
-  - Adjust credentials in config.php
+### Database
+- Import `db.sql`  
+- Adjust credentials in `config.php`  
 
-3. Configure webserver:  
-  - PHP >= 7.4, MySQL/MariaDB  
-  - Writable permissions for uploads if needed
+### Webserver
+- PHP >= 7.4  
+- MySQL / MariaDB  
+- Writable permissions for uploads if needed 
 
-4. Open project in browser.
+### Start
+- Open project in browser  
 
 ## License
 
