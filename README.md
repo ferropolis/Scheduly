@@ -33,3 +33,9 @@ Created with the help of ChatGPT-5.
 ## License
 
 This project is licensed under the MIT License.
+
+## Pictures
+<img height="300" alt="Testveranstaltung – Eintragen" src="https://github.com/user-attachments/assets/0b4607f1-0f8f-4240-9141-672880c5d8d9" />
+<img height="300" alt="Testveranstaltung – Veranstaltungen adminansicht" src="https://github.com/user-attachments/assets/baf95f0b-83ea-4639-801f-1b189124627b" />
+<img height="300" alt="Testveranstaltung – Station-Zeitplan" src="https://github.com/user-attachments/assets/3dd795c6-50e8-4de8-a5e7-e92a19903c6b" />
+<img height="300" alt="Testveranstaltung – Einsatzplan nach Benutzer" src="https://github.com/user-attachments/assets/23558185-2058-4b1e-81dc-b8673add1a9f" />
