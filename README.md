@@ -1,7 +1,8 @@
 # Scheduly · Event Planner (Zeitplaner) 📅
 
 A **web-based scheduling tool** for events, shifts, and team organization.  
-Easily manage participants, locations, and time slots with a clear tabular visualization.
+Easily manage participants, locations, and time slots with a clear tabular visualization.  
+Created with the help of ChatGPT-5.
 
 ## ✨ Features
 
